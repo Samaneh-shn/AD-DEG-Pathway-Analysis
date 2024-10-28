@@ -57,6 +57,9 @@ To visualize DEGs, we created a **volcano plot**:
   - Higher values represent more statistically significant genes.
   - The blue dashed line represents the 0.05 adjusted p-value threshold, with points above the line indicating significant DEGs.
 - **Red Points:** Each red dot represents a significantly differentially expressed gene. Their spread across the X-axis indicates variability in expression changes, with some genes exhibiting higher fold changes.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d43f5f01-e2dc-4d17-95da-820231823728" alt="Differential Expression Volcano Plot" width="600" />
+</div>
 
 ---
 
@@ -68,6 +71,11 @@ The results of this analysis reveal several insights relevant to Alzheimer's Dis
 
 #### GO Biological Processes (Upregulated Genes)
 The top enriched terms for upregulated genes suggest that these genes may contribute to compensatory mechanisms in neurodegeneration, focusing on maintaining synaptic connections, cellular communication, and metabolic responses. Key terms include:
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a58c5301-a02a-4ac5-af63-541b7013781a" alt="GO Biological Processes (Upregulated Genes)" width="600" />
+</div>
+
 - **Calcium-dependent Cell-cell Adhesion**:
   - Genes like PCDHB11 and PCDHB9 play significant roles in cell-cell adhesion through calcium signaling, which is critical for neural connectivity. In AD, strengthening or preserving neural connections could counteract synaptic loss, a hallmark of the disease.
 - **Synapse Assembly and Organization**:
@@ -77,6 +85,11 @@ The top enriched terms for upregulated genes suggest that these genes may contri
     
 #### KEGG Pathways (Upregulated Genes)
 The KEGG pathways enriched for upregulated genes reinforce the metabolic and neuroprotective adaptations that may help combat AD progression.
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/db8ca3bc-6e69-4629-8336-dccf314706c2" alt="KEGG Pathways (Upregulated Genes)" width="600" />
+</div>
 
 - **Vitamin Digestion and Absorption**:
   - CUBN (Cubilin) appears in this pathway, playing a role in nutrient absorption, particularly vitamin B12, which is essential for neural health. Vitamin B12 deficiency is linked to cognitive decline, so maintaining sufficient levels may help preserve cognitive function in AD.
@@ -89,6 +102,11 @@ The KEGG pathways enriched for upregulated genes reinforce the metabolic and neu
 
 #### GO Biological Processes (Downregulated Genes)
 The top enriched terms for downregulated genes indicate that critical cellular maintenance functions, including DNA replication, metabolic regulation, and nucleotide recycling, may be impaired in AD.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ed31279b-84e6-4bc2-bde3-bb7ea22e007b" alt="GO Biological Processes (Downregulated Genes)" width="600" />
+</div>
+
 - **Regulation of DNA-dependent DNA Replication Initiation**:
   - CDT1 is significantly downregulated, impacting DNA replication and possibly leading to impaired cell cycle control. Aberrant cell cycle re-entry is harmful to neurons, as it can trigger cell death, a detrimental process in AD.
 - **Nucleobase Catabolic Processes**:
@@ -98,6 +116,11 @@ The top enriched terms for downregulated genes indicate that critical cellular m
     
 #### KEGG Pathways (Downregulated Genes)
 The KEGG pathways enriched for downregulated genes further illustrate an impairment in processes that maintain cellular health and resilience.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cf627a95-d0cd-4850-b22e-312ad317e0c6" alt="KEGG Pathways (Upregulated Genes)" width="600" />
+</div>
+
 - **Cancer-related Pathways (e.g., Breast Cancer, Melanoma)**:
   - While these pathways are primarily related to cell proliferation in cancer, their downregulation in neurons may suggest a protective measure, preventing harmful, aberrant cell growth. However, this also limits the cell's capacity to replace or repair damaged cells, an issue in AD.
 - **Signaling Pathways (e.g., MAPK, Calcium Signaling)**:

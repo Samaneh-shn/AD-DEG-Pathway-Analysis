@@ -1,0 +1,84 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	regulation of DNA-dependent DNA replication initiation (GO:0030174)	1/6	2.996578e-03	3.821252e-02	0	0	4.441111e+02	2.580412e+03	CDT1
+GO_Biological_Process_2021	nucleobase catabolic process (GO:0046113)	1/7	3.495224e-03	3.821252e-02	0	0	3.700741e+02	2.093271e+03	DPYSL5
+GO_Biological_Process_2021	pyrimidine nucleobase catabolic process (GO:0006208)	1/8	3.993646e-03	3.821252e-02	0	0	3.171905e+02	1.751859e+03	DPYSL5
+GO_Biological_Process_2021	negative regulation of macromolecule metabolic process (GO:0010605)	2/194	4.002003e-03	3.821252e-02	0	0	2.577865e+01	1.423229e+02	ANKRD13B;FGF19
+GO_Biological_Process_2021	positive regulation of chromatin binding (GO:0035563)	1/9	4.491844e-03	3.821252e-02	0	0	2.775278e+02	1.500174e+03	CDT1
+GO_Biological_Process_2021	regulation of bile acid biosynthetic process (GO:0070857)	1/10	4.989818e-03	3.821252e-02	0	0	2.466790e+02	1.307487e+03	FGF19
+GO_Biological_Process_2021	negative regulation of steroid biosynthetic process (GO:0010894)	1/11	5.487568e-03	3.821252e-02	0	0	2.220000e+02	1.155570e+03	FGF19
+GO_Biological_Process_2021	positive regulation of DNA-dependent DNA replication (GO:2000105)	1/11	5.487568e-03	3.821252e-02	0	0	2.220000e+02	1.155570e+03	CDT1
+GO_Biological_Process_2021	regulation of DNA-dependent DNA replication (GO:0090329)	1/12	5.985094e-03	3.821252e-02	0	0	2.018081e+02	1.032951e+03	CDT1
+GO_Biological_Process_2021	attachment of mitotic spindle microtubules to kinetochore (GO:0051315)	1/12	5.985094e-03	3.821252e-02	0	0	2.018081e+02	1.032951e+03	CDT1
+GO_Biological_Process_2021	pyrimidine nucleobase metabolic process (GO:0006206)	1/12	5.985094e-03	3.821252e-02	0	0	2.018081e+02	1.032951e+03	DPYSL5
+GO_Biological_Process_2021	negative regulation of receptor internalization (GO:0002091)	1/12	5.985094e-03	3.821252e-02	0	0	2.018081e+02	1.032951e+03	ANKRD13B
+GO_Biological_Process_2021	regulation of chromatin binding (GO:0035561)	1/12	5.985094e-03	3.821252e-02	0	0	2.018081e+02	1.032951e+03	CDT1
+GO_Biological_Process_2021	kinetochore organization (GO:0051383)	1/13	6.482395e-03	3.843134e-02	0	0	1.849815e+02	9.320597e+02	CDT1
+GO_Biological_Process_2021	positive regulation of DNA replication (GO:0045740)	1/17	8.469366e-03	4.135044e-02	0	0	1.387083e+02	6.618190e+02	CDT1
+GO_Biological_Process_2021	pyrimidine-containing compound catabolic process (GO:0072529)	1/17	8.469366e-03	4.135044e-02	0	0	1.387083e+02	6.618190e+02	DPYSL5
+GO_Biological_Process_2021	DNA replication checkpoint signaling (GO:0000076)	1/17	8.469366e-03	4.135044e-02	0	0	1.387083e+02	6.618190e+02	CDT1
+GO_Biological_Process_2021	regulation of chromosome organization (GO:0033044)	1/22	1.094805e-02	5.048269e-02	0	0	1.056561e+02	4.769943e+02	CDT1
+GO_Biological_Process_2021	positive regulation of glucose import (GO:0046326)	1/26	1.292699e-02	5.364699e-02	0	0	8.873333e+01	3.858514e+02	FGF19
+GO_Biological_Process_2021	negative regulation of receptor-mediated endocytosis (GO:0048261)	1/26	1.292699e-02	5.364699e-02	0	0	8.873333e+01	3.858514e+02	ANKRD13B
+GO_Biological_Process_2021	positive regulation of glucose transmembrane transport (GO:0010828)	1/32	1.588871e-02	5.700402e-02	0	0	7.153763e+01	2.963194e+02	FGF19
+GO_Biological_Process_2021	regulation of transcription involved in G1/S transition of mitotic cell cycle (GO:0000083)	1/32	1.588871e-02	5.700402e-02	0	0	7.153763e+01	2.963194e+02	CDT1
+GO_Biological_Process_2021	regulation of receptor internalization (GO:0002090)	1/36	1.785874e-02	5.700402e-02	0	0	6.334921e+01	2.549972e+02	ANKRD13B
+GO_Biological_Process_2021	negative regulation of cellular protein localization (GO:1903828)	1/36	1.785874e-02	5.700402e-02	0	0	6.334921e+01	2.549972e+02	CDT1
+GO_Biological_Process_2021	regulation of glucose import (GO:0046324)	1/37	1.835069e-02	5.700402e-02	0	0	6.158642e+01	2.462279e+02	FGF19
+GO_Biological_Process_2021	DNA replication initiation (GO:0006270)	1/38	1.884243e-02	5.700402e-02	0	0	5.991892e+01	2.379766e+02	CDT1
+GO_Biological_Process_2021	negative regulation of cellular metabolic process (GO:0031324)	1/39	1.933394e-02	5.700402e-02	0	0	5.833918e+01	2.302002e+02	ANKRD13B
+GO_Biological_Process_2021	DNA integrity checkpoint signaling (GO:0031570)	1/39	1.933394e-02	5.700402e-02	0	0	5.833918e+01	2.302002e+02	CDT1
+GO_Biological_Process_2021	nervous system development (GO:0007399)	2/447	1.991707e-02	5.700402e-02	0	0	1.098034e+01	4.300096e+01	DPYSL5;FGF19
+GO_Biological_Process_2021	regulation of DNA metabolic process (GO:0051052)	1/46	2.276831e-02	6.227156e-02	0	0	4.924691e+01	1.862708e+02	CDT1
+GO_Biological_Process_2021	regulation of DNA binding (GO:0051101)	1/47	2.325805e-02	6.227156e-02	0	0	4.817391e+01	1.811871e+02	CDT1
+GO_Biological_Process_2021	mitotic metaphase plate congression (GO:0007080)	1/51	2.521481e-02	6.393895e-02	0	0	4.431111e+01	1.630792e+02	CDT1
+GO_Biological_Process_2021	negative regulation of cellular biosynthetic process (GO:0031327)	1/52	2.570344e-02	6.393895e-02	0	0	4.344009e+01	1.590398e+02	FGF19
+GO_Biological_Process_2021	regulation of DNA replication (GO:0006275)	1/53	2.619186e-02	6.393895e-02	0	0	4.260256e+01	1.551716e+02	CDT1
+GO_Biological_Process_2021	pre-replicative complex assembly (GO:0036388)	1/64	3.154992e-02	7.481837e-02	0	0	3.514462e+01	1.214663e+02	CDT1
+GO_Biological_Process_2021	positive regulation of cellular protein localization (GO:1903829)	1/71	3.494576e-02	8.055680e-02	0	0	3.161905e+01	1.060490e+02	CDT1
+GO_Biological_Process_2021	positive regulation of JNK cascade (GO:0046330)	1/73	3.591403e-02	8.055680e-02	0	0	3.073765e+01	1.022527e+02	FGF19
+GO_Biological_Process_2021	fibroblast growth factor receptor signaling pathway (GO:0008543)	1/75	3.688143e-02	8.055680e-02	0	0	2.990390e+01	9.868429e+01	FGF19
+GO_Biological_Process_2021	regulation of organelle organization (GO:0033043)	1/80	3.929610e-02	8.363016e-02	0	0	2.800422e+01	9.063930e+01	CDT1
+GO_Biological_Process_2021	G1/S transition of mitotic cell cycle (GO:0000082)	1/85	4.170532e-02	8.653854e-02	0	0	2.633069e+01	8.365593e+01	CDT1
+GO_Biological_Process_2021	positive regulation of binding (GO:0051099)	1/90	4.410910e-02	8.699383e-02	0	0	2.484519e+01	7.754406e+01	CDT1
+GO_Biological_Process_2021	cellular response to fibroblast growth factor stimulus (GO:0044344)	1/92	4.506909e-02	8.699383e-02	0	0	2.429670e+01	7.530906e+01	FGF19
+GO_Biological_Process_2021	positive regulation of cellular component biogenesis (GO:0044089)	1/92	4.506909e-02	8.699383e-02	0	0	2.429670e+01	7.530906e+01	CDT1
+GO_Biological_Process_2021	positive regulation of stress-activated MAPK cascade (GO:0032874)	1/99	4.842224e-02	9.134195e-02	0	0	2.255329e+01	6.828676e+01	FGF19
+GO_Biological_Process_2021	regulation of JNK cascade (GO:0046328)	1/105	5.128792e-02	9.340167e-02	0	0	2.124573e+01	6.310618e+01	FGF19
+GO_Biological_Process_2021	chromosome organization (GO:0051276)	1/106	5.176478e-02	9.340167e-02	0	0	2.104233e+01	6.230729e+01	CDT1
+GO_Biological_Process_2021	positive regulation of cellular component organization (GO:0051130)	1/114	5.557189e-02	9.734762e-02	0	0	1.954474e+01	5.648582e+01	CDT1
+GO_Biological_Process_2021	regulation of protein-containing complex assembly (GO:0043254)	1/116	5.652151e-02	9.734762e-02	0	0	1.920290e+01	5.517250e+01	CDT1
+GO_Biological_Process_2021	positive regulation of protein-containing complex assembly (GO:0031334)	1/118	5.747028e-02	9.734762e-02	0	0	1.887274e+01	5.390976e+01	CDT1
+GO_Biological_Process_2021	DNA-dependent DNA replication (GO:0006261)	1/129	6.267316e-02	1.019975e-01	0	0	1.724132e+01	4.775539e+01	CDT1
+GO_Biological_Process_2021	positive regulation of macromolecule biosynthetic process (GO:0010557)	1/129	6.267316e-02	1.019975e-01	0	0	1.724132e+01	4.775539e+01	CDT1
+GO_Biological_Process_2021	regulation of cell motility (GO:2000145)	1/133	6.455870e-02	1.030456e-01	0	0	1.671549e+01	4.580345e+01	FGF19
+GO_Biological_Process_2021	protein-DNA complex assembly (GO:0065004)	1/143	6.925762e-02	1.084600e-01	0	0	1.553052e+01	4.146527e+01	CDT1
+GO_Biological_Process_2021	positive regulation of protein kinase B signaling (GO:0051897)	1/161	7.766217e-02	1.193696e-01	0	0	1.377083e+01	3.518981e+01	FGF19
+GO_Biological_Process_2021	positive regulation of ERK1 and ERK2 cascade (GO:0070374)	1/172	8.276460e-02	1.248993e-01	0	0	1.287784e+01	3.208843e+01	FGF19
+GO_Biological_Process_2021	positive regulation of cellular biosynthetic process (GO:0031328)	1/180	8.645949e-02	1.281453e-01	0	0	1.229733e+01	3.010484e+01	CDT1
+GO_Biological_Process_2021	regulation of protein kinase B signaling (GO:0051896)	1/207	9.883105e-02	1.439119e-01	0	0	1.067098e+01	2.469632e+01	FGF19
+GO_Biological_Process_2021	positive regulation of protein modification process (GO:0031401)	1/214	1.020138e-01	1.459852e-01	0	0	1.031664e+01	2.354925e+01	FGF19
+GO_Biological_Process_2021	transcription, DNA-templated (GO:0006351)	1/221	1.051864e-01	1.479741e-01	0	0	9.984848e+00	2.248609e+01	ETV7
+GO_Biological_Process_2021	regulation of ERK1 and ERK2 cascade (GO:0070372)	1/238	1.128493e-01	1.561082e-01	0	0	9.260666e+00	2.020401e+01	FGF19
+GO_Biological_Process_2021	positive regulation of phosphorylation (GO:0042327)	1/253	1.195617e-01	1.626822e-01	0	0	8.702822e+00	1.848412e+01	FGF19
+GO_Biological_Process_2021	regulation of protein phosphorylation (GO:0001932)	1/266	1.253420e-01	1.677965e-01	0	0	8.270440e+00	1.717530e+01	FGF19
+GO_Biological_Process_2021	positive regulation of MAPK cascade (GO:0043410)	1/274	1.288821e-01	1.688613e-01	0	0	8.024827e+00	1.644172e+01	FGF19
+GO_Biological_Process_2021	DNA metabolic process (GO:0006259)	1/277	1.302063e-01	1.688613e-01	0	0	7.936393e+00	1.617941e+01	CDT1
+GO_Biological_Process_2021	MAPK cascade (GO:0000165)	1/303	1.416072e-01	1.808216e-01	0	0	7.243561e+00	1.415897e+01	FGF19
+GO_Biological_Process_2021	transcription by RNA polymerase II (GO:0006366)	1/320	1.489888e-01	1.856393e-01	0	0	6.851620e+00	1.304469e+01	ETV7
+GO_Biological_Process_2021	negative regulation of gene expression (GO:0010629)	1/322	1.498534e-01	1.856393e-01	0	0	6.808238e+00	1.292270e+01	FGF19
+GO_Biological_Process_2021	positive regulation of protein phosphorylation (GO:0001934)	1/371	1.707919e-01	2.084666e-01	0	0	5.891892e+00	1.041280e+01	FGF19
+GO_Biological_Process_2021	positive regulation of macromolecule metabolic process (GO:0010604)	1/384	1.762686e-01	2.120332e-01	0	0	5.688135e+00	9.873160e+00	FGF19
+GO_Biological_Process_2021	transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	1/404	1.846306e-01	2.152341e-01	0	0	5.400331e+00	9.123310e+00	FGF19
+GO_Biological_Process_2021	regulation of cell migration (GO:0030334)	1/408	1.862938e-01	2.152341e-01	0	0	5.346164e+00	8.983857e+00	FGF19
+GO_Biological_Process_2021	protein modification by small protein conjugation (GO:0032446)	1/409	1.867091e-01	2.152341e-01	0	0	5.332789e+00	8.949504e+00	TRIM47
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	2.132995e-01	2.425187e-01	0	0	4.584684e+00	7.083602e+00	FGF19
+GO_Biological_Process_2021	positive regulation of gene expression (GO:0010628)	1/482	2.165175e-01	2.428507e-01	0	0	4.506584e+00	6.895450e+00	FGF19
+GO_Biological_Process_2021	protein ubiquitination (GO:0016567)	1/525	2.336122e-01	2.585308e-01	0	0	4.127651e+00	6.001988e+00	TRIM47
+GO_Biological_Process_2021	positive regulation of intracellular signal transduction (GO:1902533)	1/546	2.418381e-01	2.641126e-01	0	0	3.964322e+00	5.627304e+00	FGF19
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	1/625	2.720762e-01	2.932770e-01	0	0	3.448362e+00	4.488640e+00	FGF19
+GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	1/684	2.939464e-01	3.127891e-01	0	0	3.140882e+00	3.845564e+00	ETV7
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	2/2244	3.113653e-01	3.271306e-01	0	0	1.979037e+00	2.309117e+00	ETV7;CDT1
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	3.226561e-01	3.347557e-01	0	0	2.799913e+00	3.167172e+00	FGF19
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	1/948	3.847416e-01	3.942414e-01	0	0	2.234307e+00	2.134173e+00	ETV7
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	1/1079	4.257704e-01	4.309627e-01	0	0	1.949289e+00	1.664410e+00	FGF19
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	1/2206	6.893182e-01	6.893182e-01	0	0	8.961955e-01	3.334316e-01	ETV7

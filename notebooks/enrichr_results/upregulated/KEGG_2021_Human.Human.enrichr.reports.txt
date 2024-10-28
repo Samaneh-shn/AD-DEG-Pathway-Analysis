@@ -1,0 +1,4 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Vitamin digestion and absorption	1/24	1.193796e-02	3.581389e-02	0	0	9.645894e+01	4.271232e+02	CUBN
+KEGG_2021_Human	Steroid hormone biosynthesis	1/61	3.009127e-02	4.513690e-02	0	0	3.690741e+01	1.293059e+02	AKR1C2
+KEGG_2021_Human	Chemical carcinogenesis	1/239	1.132982e-01	1.132982e-01	0	0	9.221289e+00	2.008149e+01	AKR1C2

@@ -1,0 +1,47 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0016339)	2/36	1.404719e-04	6.461709e-03	0	0	1.467353e+02	1.301616e+03	PCDHB11;PCDHB9
+GO_Biological_Process_2021	synapse assembly (GO:0007416)	2/69	5.185110e-04	1.192575e-02	0	0	7.433955e+01	5.623452e+02	PCDHB11;PCDHB9
+GO_Biological_Process_2021	cell junction assembly (GO:0034329)	2/102	1.128495e-03	1.348699e-02	0	0	4.972500e+01	3.374771e+02	PCDHB11;PCDHB9
+GO_Biological_Process_2021	steroid metabolic process (GO:0008202)	2/104	1.172782e-03	1.348699e-02	0	0	4.874510e+01	3.289503e+02	CUBN;AKR1C2
+GO_Biological_Process_2021	synapse organization (GO:0050808)	2/126	1.714267e-03	1.577126e-02	0	0	4.005242e+01	2.550846e+02	PCDHB11;PCDHB9
+GO_Biological_Process_2021	cobalamin transport (GO:0015889)	1/6	2.996578e-03	2.030931e-02	0	0	4.441111e+02	2.580412e+03	CUBN
+GO_Biological_Process_2021	cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742)	2/170	3.090547e-03	2.030931e-02	0	0	2.949702e+01	1.704753e+02	PCDHB11;PCDHB9
+GO_Biological_Process_2021	progesterone metabolic process (GO:0042448)	1/9	4.491844e-03	2.550351e-02	0	0	2.775278e+02	1.500174e+03	AKR1C2
+GO_Biological_Process_2021	cellular response to prostaglandin stimulus (GO:0071379)	1/10	4.989818e-03	2.550351e-02	0	0	2.466790e+02	1.307487e+03	AKR1C2
+GO_Biological_Process_2021	anterograde trans-synaptic signaling (GO:0098916)	2/244	6.253438e-03	2.876582e-02	0	0	2.040083e+01	1.035265e+02	PCDHB11;PCDHB9
+GO_Biological_Process_2021	vitamin D metabolic process (GO:0042359)	1/15	7.476328e-03	3.126465e-02	0	0	1.585397e+02	7.762124e+02	CUBN
+GO_Biological_Process_2021	cellular response to fatty acid (GO:0071398)	1/17	8.469366e-03	3.147565e-02	0	0	1.387083e+02	6.618190e+02	AKR1C2
+GO_Biological_Process_2021	prostanoid metabolic process (GO:0006692)	1/18	8.965550e-03	3.147565e-02	0	0	1.305425e+02	6.154250e+02	AKR1C2
+GO_Biological_Process_2021	chemical synaptic transmission (GO:0007268)	2/306	9.681798e-03	3.147565e-02	0	0	1.618914e+01	7.507728e+01	PCDHB11;PCDHB9
+GO_Biological_Process_2021	cobalamin metabolic process (GO:0009235)	1/21	1.045276e-02	3.147565e-02	0	0	1.109444e+02	5.060053e+02	CUBN
+GO_Biological_Process_2021	tetrapyrrole metabolic process (GO:0033013)	1/22	1.094805e-02	3.147565e-02	0	0	1.056561e+02	4.769943e+02	CUBN
+GO_Biological_Process_2021	C21-steroid hormone metabolic process (GO:0008207)	1/24	1.193796e-02	3.177217e-02	0	0	9.645894e+01	4.271232e+02	AKR1C2
+GO_Biological_Process_2021	fat-soluble vitamin metabolic process (GO:0006775)	1/25	1.243259e-02	3.177217e-02	0	0	9.243519e+01	4.055533e+02	CUBN
+GO_Biological_Process_2021	prostaglandin metabolic process (GO:0006693)	1/31	1.539564e-02	3.540998e-02	0	0	7.392593e+01	3.085425e+02	AKR1C2
+GO_Biological_Process_2021	vitamin transport (GO:0051180)	1/31	1.539564e-02	3.540998e-02	0	0	7.392593e+01	3.085425e+02	CUBN
+GO_Biological_Process_2021	cellular response to ketone (GO:1901655)	1/39	1.933394e-02	4.164477e-02	0	0	5.833918e+01	2.302002e+02	AKR1C2
+GO_Biological_Process_2021	nervous system development (GO:0007399)	2/447	1.991707e-02	4.164477e-02	0	0	1.098034e+01	4.300096e+01	PCDHB11;PCDHB9
+GO_Biological_Process_2021	cellular response to alcohol (GO:0097306)	1/48	2.374757e-02	4.749514e-02	0	0	4.714657e+01	1.763411e+02	AKR1C2
+GO_Biological_Process_2021	striated muscle contraction (GO:0006941)	1/54	2.668006e-02	5.113677e-02	0	0	4.179665e+01	1.514643e+02	SMPX
+GO_Biological_Process_2021	water-soluble vitamin metabolic process (GO:0006767)	1/76	3.736480e-02	6.610695e-02	0	0	2.950370e+01	9.697945e+01	CUBN
+GO_Biological_Process_2021	cellular response to hormone stimulus (GO:0032870)	1/76	3.736480e-02	6.610695e-02	0	0	2.950370e+01	9.697945e+01	AKR1C2
+GO_Biological_Process_2021	sensory perception of mechanical stimulus (GO:0050954)	1/88	4.314824e-02	7.325369e-02	0	0	2.541890e+01	7.989450e+01	LOXHD1
+GO_Biological_Process_2021	sensory perception of sound (GO:0007605)	1/91	4.458920e-02	7.325369e-02	0	0	2.456790e+01	7.641265e+01	LOXHD1
+GO_Biological_Process_2021	epithelial cell differentiation (GO:0030855)	1/101	4.937833e-02	7.832425e-02	0	0	2.210000e+01	6.648218e+01	AKR1C2
+GO_Biological_Process_2021	epithelium development (GO:0060429)	1/122	5.936524e-02	9.102670e-02	0	0	1.824518e+01	5.152523e+01	AKR1C2
+GO_Biological_Process_2021	muscle contraction (GO:0006936)	1/129	6.267316e-02	9.299888e-02	0	0	1.724132e+01	4.775539e+01	SMPX
+GO_Biological_Process_2021	organic substance transport (GO:0071702)	1/136	6.597061e-02	9.370148e-02	0	0	1.634156e+01	4.442529e+01	CUBN
+GO_Biological_Process_2021	nitrogen compound transport (GO:0071705)	1/143	6.925762e-02	9.370148e-02	0	0	1.553052e+01	4.146527e+01	CUBN
+GO_Biological_Process_2021	receptor-mediated endocytosis (GO:0006898)	1/143	6.925762e-02	9.370148e-02	0	0	1.553052e+01	4.146527e+01	CUBN
+GO_Biological_Process_2021	positive regulation of protein kinase B signaling (GO:0051897)	1/161	7.766217e-02	1.020703e-01	0	0	1.377083e+01	3.518981e+01	AKR1C2
+GO_Biological_Process_2021	regulation of protein kinase B signaling (GO:0051896)	1/207	9.883105e-02	1.262841e-01	0	0	1.067098e+01	2.469632e+01	AKR1C2
+GO_Biological_Process_2021	negative regulation of nucleic acid-templated transcription (GO:1903507)	1/464	2.092603e-01	2.582047e-01	0	0	4.686105e+00	7.329894e+00	FOXP2
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	2.132995e-01	2.582047e-01	0	0	4.584684e+00	7.083602e+00	AKR1C2
+GO_Biological_Process_2021	positive regulation of intracellular signal transduction (GO:1902533)	1/546	2.418381e-01	2.785619e-01	0	0	3.964322e+00	5.627304e+00	AKR1C2
+GO_Biological_Process_2021	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	1/547	2.422278e-01	2.785619e-01	0	0	3.956858e+00	5.610337e+00	FOXP2
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	1/625	2.720762e-01	3.052562e-01	0	0	3.448362e+00	4.488640e+00	AKR1C2
+GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	1/684	2.939464e-01	3.219412e-01	0	0	3.140882e+00	3.845564e+00	FOXP2
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	3.226561e-01	3.451670e-01	0	0	2.799913e+00	3.167172e+00	AKR1C2
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	1/948	3.847416e-01	4.022299e-01	0	0	2.234307e+00	2.134173e+00	FOXP2
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	1/2206	6.893182e-01	6.958912e-01	0	0	8.961955e-01	3.334316e-01	FOXP2
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	1/2244	6.958912e-01	6.958912e-01	0	0	8.791301e-01	3.187392e-01	FOXP2
